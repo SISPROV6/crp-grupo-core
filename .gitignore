@@ -1,0 +1,6 @@
+.vs
+
+**/packages
+
+Grupos*/**/bin
+Grupos*/**/obj

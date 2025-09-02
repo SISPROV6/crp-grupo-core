@@ -1,0 +1,6 @@
+@GruposWS_HostAddress = http://localhost:5198
+
+GET {{GruposWS_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
